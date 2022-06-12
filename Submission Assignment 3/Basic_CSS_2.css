@@ -1,0 +1,18 @@
+.My_Class { /* We give the class the name "My_Class" */
+	/* Elements that refer to this class we be styled as follows: */
+	color: purple; /* Defined text colour as purple */
+	background-color: rgb(213, 202, 202); /* Text background will be grey */
+	font-size: medium; /* Text font size set to medium */
+	text-align: center; /* Text algined to centre of the web page */
+}
+
+img.small { /* Display image in the center of the screen */
+	width: 100px; 
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* h1 elements with have darkblue text, with a light-blue shadow, a large font, which is centred in the middle of the web page */
+h1 { color: rgb(51, 0, 255); background-color: rgb(213, 202, 202); font-size: large; text-align: center; text-shadow: 2px 2px #59affa;}

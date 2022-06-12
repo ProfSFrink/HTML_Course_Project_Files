@@ -1,0 +1,2 @@
+ol { list-style-type: decimal-leading-zero; } /* Every element in the list starts with a decimal number with a leading zero */
+ul { list-style-type: upper-roman; } /* Every element in the list starts with a roman numerial */

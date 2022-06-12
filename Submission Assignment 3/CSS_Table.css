@@ -1,0 +1,18 @@
+table {
+	border: 1px solid silver; /* Style the table border sliver with a width of 1 pixel */
+}
+
+td:hover {
+	background-color: darkorange; /* Set hover background to darkorange and text to black */ 
+	color: black;
+}
+
+tr, th { /* Have the table header have a black background and cornslik text */
+	background-color: black;
+	color: cornsilk;
+}
+
+tr, td { /* Have the table data row have a darkgreen background with white text */
+	background-color: darkgreen;
+	color: white;
+}
